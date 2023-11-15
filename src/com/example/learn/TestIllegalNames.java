@@ -3,7 +3,9 @@ package com.example.learn;
 
 public class TestIllegalNames {
     // Valid field name
-    int aValidName; 
+	int ValidName;
+	// Invalid field name
+    int Valid-Name; 
 
  // Incorrect field names 
     // int 1invalid;       // Error: Cannot start with a digit
