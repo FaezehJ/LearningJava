@@ -1,0 +1,8 @@
+package com.example.oop;
+
+
+public class Bird {
+    public void sing() {
+        System.out.println("Bird is singing");
+    }
+}
